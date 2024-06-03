@@ -1,0 +1,224 @@
+STATEFP
+COUNTYFP
+TRACTCE
+AFFGEOID
+GEOID
+NAME
+NAMELSAD
+STUSPS
+NAMELSADCO
+STATE_NAME
+LSAD
+ALAND
+AWATER
+geometry
+FIPS
+Qualifying Name
+State Postal Abbreviation
+Summary Level
+Geographic Component
+US
+Census Region
+Census Division
+State (FIPS Code)
+County of current residence
+County Subdivision (FIPS)
+Place (FIPS Code)
+Census Tract
+Total Population
+Population Density (Per Sq. Mile)
+Area (Land)
+Area Total:
+Area Total: Area (Land)
+Area Total: Area (Water)
+Total Population:
+Total Population: Male
+Total Population: Male: Under 5 Years
+Total Population: Male: 5 to 9 Years
+Total Population: Male: 10 to 14 Years
+Total Population: Male: 15 to 17 Years
+Total Population: Male: 18 to 24 Years
+Total Population: Male: 25 to 34 Years
+Total Population: Male: 35 to 44 Years
+Total Population: Male: 45 to 54 Years
+Total Population: Male: 55 to 64 Years
+Total Population: Male: 65 to 74 Years
+Total Population: Male: 75 to 84 Years
+Total Population: Male: 85 Years and Over
+Total Population: Female
+Total Population: Female: Under 5 Years
+Total Population: Female: 5 to 9 Years
+Total Population: Female: 10 to 14 Years
+Total Population: Female: 15 to 17 Years
+Total Population: Female: 18 to 24 Years
+Total Population: Female: 25 to 34 Years
+Total Population: Female: 35 to 44 Years
+Total Population: Female: 45 to 54 Years
+Total Population: Female: 55 to 64 Years
+Total Population: Female: 65 to 74 Years
+Total Population: Female: 75 to 84 Years
+Total Population: Female: 85 Years and Over
+Total Population.1
+Total Population: Not Hispanic or Latino
+Total Population: Hispanic or Latino
+Total Population: Hispanic or Latino: Mexican
+Total Population: Hispanic or Latino: Puerto Rican
+Total Population: Hispanic or Latino: Cuban
+Total Population: Hispanic or Latino: Dominican Republic
+Total Population: Hispanic or Latino: Central American
+Total Population: Hispanic or Latino: Central American: Costa Rican
+Total Population: Hispanic or Latino: Central American: Guatemalan
+Total Population: Hispanic or Latino: Central American: Honduran
+Total Population: Hispanic or Latino: Central American: Nicaraguan
+Total Population: Hispanic or Latino: Central American: Panamanian
+Total Population: Hispanic or Latino: Central American: Salvadoran
+Total Population: Hispanic or Latino: Central American: Other Central American
+Total Population: Hispanic or Latino: South American
+Total Population: Hispanic or Latino: South American: Argentinean
+Total Population: Hispanic or Latino: South American: Bolivian
+Total Population: Hispanic or Latino: South American: Chilean
+Total Population: Hispanic or Latino: South American: Colombian
+Total Population: Hispanic or Latino: South American: Ecuadorian
+Total Population: Hispanic or Latino: South American: Paraguayan
+Total Population: Hispanic or Latino: South American: Peruvian
+Total Population: Hispanic or Latino: South American: Uruguayan
+Total Population: Hispanic or Latino: South American: Venezuelan
+Total Population: Hispanic or Latino: South American: Other South American
+Total Population: Hispanic or Latino: Other Hispanic or Latino
+Total Population: Hispanic or Latino: Other Hispanic or Latino: Spaniard
+Total Population: Hispanic or Latino: Other Hispanic or Latino: Spanish
+Total Population: Hispanic or Latino: Other Hispanic or Latino: Spanish American
+Total Population: Hispanic or Latino: Other Hispanic or Latino: All Other Hispanic or Latino
+Total:
+Total: Asian Indian
+Total: Bangladeshi
+Total: Bhutanese
+Total: Burmese
+Total: Cambodian
+Total: Chinese, Except Taiwanese
+Total: Filipino
+Total: Hmong
+Total: Indonesian
+Total: Japanese
+Total: Korean
+Total: Laotian
+Total: Malaysian
+Total: Mongolian
+Total: Nepalese
+Total: Okinawan
+Total: Pakistani
+Total: Sri Lankan
+Total: Taiwanese
+Total: Thai
+Total: Vietnamese
+Total: Other Asian, Specified
+Total: Other Asian, Not Specified
+Total: Two or More Asian
+People Reporting Multiple Ancestries
+People Reporting Multiple Ancestries: Afghan
+People Reporting Multiple Ancestries: Albanian
+People Reporting Multiple Ancestries: Alsatian
+People Reporting Multiple Ancestries: American
+People Reporting Multiple Ancestries: Arab
+People Reporting Multiple Ancestries: Arab: Egyptian
+People Reporting Multiple Ancestries: Arab: Iraqi
+People Reporting Multiple Ancestries: Arab: Jordanian
+People Reporting Multiple Ancestries: Arab: Lebanese
+People Reporting Multiple Ancestries: Arab: Moroccan
+People Reporting Multiple Ancestries: Arab: Palestinian
+People Reporting Multiple Ancestries: Arab: Syrian
+People Reporting Multiple Ancestries: Arab: Arab
+People Reporting Multiple Ancestries: Arab: Other Arab
+People Reporting Multiple Ancestries: Armenian
+People Reporting Multiple Ancestries: Assyrian/Chaldean/Syriac
+People Reporting Multiple Ancestries: Australian
+People Reporting Multiple Ancestries: Austrian
+People Reporting Multiple Ancestries: Basque
+People Reporting Multiple Ancestries: Belgian
+People Reporting Multiple Ancestries: Brazilian
+People Reporting Multiple Ancestries: British
+People Reporting Multiple Ancestries: Bulgarian
+People Reporting Multiple Ancestries: Cajun
+People Reporting Multiple Ancestries: Canadian
+People Reporting Multiple Ancestries: Carpatho Rusyn
+People Reporting Multiple Ancestries: Celtic
+People Reporting Multiple Ancestries: Croatian
+People Reporting Multiple Ancestries: Cypriot
+People Reporting Multiple Ancestries: Czech
+People Reporting Multiple Ancestries: Czechoslovakian
+People Reporting Multiple Ancestries: Danish
+People Reporting Multiple Ancestries: Dutch
+People Reporting Multiple Ancestries: Eastern European
+People Reporting Multiple Ancestries: English
+People Reporting Multiple Ancestries: Estonian
+People Reporting Multiple Ancestries: European
+People Reporting Multiple Ancestries: Finnish
+People Reporting Multiple Ancestries: French (Except Basque)
+People Reporting Multiple Ancestries: French Canadian
+People Reporting Multiple Ancestries: German
+People Reporting Multiple Ancestries: German Russian
+People Reporting Multiple Ancestries: Greek
+People Reporting Multiple Ancestries: Guyanese
+People Reporting Multiple Ancestries: Hungarian
+People Reporting Multiple Ancestries: Icelander
+People Reporting Multiple Ancestries: Iranian
+People Reporting Multiple Ancestries: Irish
+People Reporting Multiple Ancestries: Israeli
+People Reporting Multiple Ancestries: Italian
+People Reporting Multiple Ancestries: Latvian
+People Reporting Multiple Ancestries: Lithuanian
+People Reporting Multiple Ancestries: Luxemburger
+People Reporting Multiple Ancestries: Macedonian
+People Reporting Multiple Ancestries: Maltese
+People Reporting Multiple Ancestries: New Zealander
+People Reporting Multiple Ancestries: Northern European
+People Reporting Multiple Ancestries: Norwegian
+People Reporting Multiple Ancestries: Pennsylvania German
+People Reporting Multiple Ancestries: Polish
+People Reporting Multiple Ancestries: Portuguese
+People Reporting Multiple Ancestries: Romanian
+People Reporting Multiple Ancestries: Russian
+People Reporting Multiple Ancestries: Scandinavian
+People Reporting Multiple Ancestries: Scotch-Irish
+People Reporting Multiple Ancestries: Scottish
+People Reporting Multiple Ancestries: Serbian
+People Reporting Multiple Ancestries: Slavic
+People Reporting Multiple Ancestries: Slovak
+People Reporting Multiple Ancestries: Slovene
+People Reporting Multiple Ancestries: Soviet Union
+People Reporting Multiple Ancestries: Sub-Saharan African
+People Reporting Multiple Ancestries: Sub-Saharan African: Cape Verdean
+People Reporting Multiple Ancestries: Sub-Saharan African: Ethiopian
+People Reporting Multiple Ancestries: Sub-Saharan African: Ghanaian
+People Reporting Multiple Ancestries: Sub-Saharan African: Kenyan
+People Reporting Multiple Ancestries: Sub-Saharan African: Liberian
+People Reporting Multiple Ancestries: Sub-Saharan African: Nigerian
+People Reporting Multiple Ancestries: Sub-Saharan African: Senegalese
+People Reporting Multiple Ancestries: Sub-Saharan African: Sierra Leonean
+People Reporting Multiple Ancestries: Sub-Saharan African: Somali
+People Reporting Multiple Ancestries: Sub-Saharan African: South African
+People Reporting Multiple Ancestries: Sub-Saharan African: Sudanese
+People Reporting Multiple Ancestries: Sub-Saharan African: Ugandan
+People Reporting Multiple Ancestries: Sub-Saharan African: Zimbabwean
+People Reporting Multiple Ancestries: Sub-Saharan African: African
+People Reporting Multiple Ancestries: Sub-Saharan African: Other Sub-Saharan African
+People Reporting Multiple Ancestries: Swedish
+People Reporting Multiple Ancestries: Swiss
+People Reporting Multiple Ancestries: Turkish
+People Reporting Multiple Ancestries: Ukrainian
+People Reporting Multiple Ancestries: Welsh
+People Reporting Multiple Ancestries: West Indian (Except Hispanic Groups)
+People Reporting Multiple Ancestries: West Indian (Except Hispanic Groups): Bahamian
+People Reporting Multiple Ancestries: West Indian (Except Hispanic Groups): Barbadian
+People Reporting Multiple Ancestries: West Indian (Except Hispanic Groups): Belizean
+People Reporting Multiple Ancestries: West Indian (Except Hispanic Groups): Bermudan
+People Reporting Multiple Ancestries: West Indian (Except Hispanic Groups): British West Indian
+People Reporting Multiple Ancestries: West Indian (Except Hispanic Groups): Dutch West Indian
+People Reporting Multiple Ancestries: West Indian (Except Hispanic Groups): Haitian
+People Reporting Multiple Ancestries: West Indian (Except Hispanic Groups): Jamaican
+People Reporting Multiple Ancestries: West Indian (Except Hispanic Groups): Trinidadian and Tobagonian
+People Reporting Multiple Ancestries: West Indian (Except Hispanic Groups): U.S. VirgIn Islander
+People Reporting Multiple Ancestries: West Indian (Except Hispanic Groups): West Indian
+People Reporting Multiple Ancestries: West Indian (Except Hispanic Groups): Other West Indian
+People Reporting Multiple Ancestries: Yugoslavian
+People Reporting Multiple Ancestries: Other Groups
